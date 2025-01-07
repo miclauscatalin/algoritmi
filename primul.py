@@ -1,0 +1,6 @@
+print("Salutare, draga vizitator!")
+print("--------------------------")
+x = input('Numele tau este: ')
+y = input('Prenumele tau este: ')
+print("--------------------------")
+print('Bine ai venit, ' + x + " " + y + "!")
